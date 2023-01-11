@@ -6,7 +6,12 @@
 
 ## Development server
 
-Run `nx serve unit-tests-demo` for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
+Run `nx serve unit-tests-demo`/`npm run serve` for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
+
+## Running unit tests
+
+Run `nx test unit-tests-demo`/`npm run test` to execute the unit tests via [Jest](https://jestjs.io).
+Recommended VSCode extension: firsttris.vscode-jest-runner.
 
 ## Understand this workspace
 
