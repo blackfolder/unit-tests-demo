@@ -16,9 +16,9 @@ describe('HelloService', () => {
     });
 
     it('should print message', () => {
-        const firstName = 'Damian';
-        const lastName = 'Dziura';
-        const correctText = 'Hello: Damian Dziura!';
+        const firstName = 'Morgan';
+        const lastName = 'Freeman';
+        const correctText = 'Hello: Morgan Freeman!';
         const fakeText = 'Unit tests are cool!';
         textService.getText.mockReturnValue(fakeText);
 

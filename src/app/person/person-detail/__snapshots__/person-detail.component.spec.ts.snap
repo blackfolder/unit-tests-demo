@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PersonDetailComponent should render correctly - snapshot 1`] = `
+<unit-tests-demo-person-detail
+  __ngContext__={[Function Number]}
+  firstName={[Function String]}
+  headerCliked={[Function EventEmitter_]}
+  lastName={[Function String]}
+>
+  , <div
+    unittestsdemocolorchanger=""
+  >
+    <h2
+      class="header"
+    >
+      Say my name!
+    </h2>
+    <p>
+      No name No last name
+    </p>
+  </div>
+</unit-tests-demo-person-detail>
+`;
